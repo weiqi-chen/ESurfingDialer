@@ -17,7 +17,7 @@ dependencies {
     implementation("com.squareup.okhttp3:okhttp:4.12.0")
     implementation("com.github.yescallop:fluent-uri:d8e12f23af")
     implementation("commons-cli:commons-cli:1.9.0")
-    implementation("commons-codec:commons-codec:1.18.0")
+    implementation("commons-codec:commons-codec:1.19.0")
     implementation("org.jsoup:jsoup:1.21.1")
     implementation("com.google.code.gson:gson:2.13.1")
 }
